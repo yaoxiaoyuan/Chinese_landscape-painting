@@ -1,3 +1,3 @@
 # Chinese landscape painting style transfer
-![image](sample.png)
+![image](./sample.png)
 
